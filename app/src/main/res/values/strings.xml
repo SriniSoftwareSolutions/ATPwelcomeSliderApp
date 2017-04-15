@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ATPwelcomeSliderApp</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Daily Learn New Skill</string>
+    <string name="slide_1_desc">Set your daily Learning routine by the help of trainer</string>
+    <string name="slide_2_title">Monitor your learning </string>
+    <string name="slide_2_desc">Learn about the different techniques to learn new skill </string>
+    <string name="slide_3_title">Near You!</string>
+    <string name="slide_3_desc">Learn any skill near to your place.</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
+
